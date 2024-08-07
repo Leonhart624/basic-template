@@ -1,0 +1,13 @@
+h1 {
+	color: blue;
+	font-family: arial;
+	font-size: 50px;
+	font-variant: small-caps;
+}
+p {
+	font: italic small-caps bolder 18px/5px arial ;
+	color: black;
+	line-height: 30px;
+	
+
+}
